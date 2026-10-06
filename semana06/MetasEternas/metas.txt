@@ -1,0 +1,2 @@
+MetaSimples:discurso,20
+MetaSimples:estudar escrituras,20
